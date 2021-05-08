@@ -46,6 +46,9 @@ int main() {
     DS.Hello();
     DS.say();
     DS.HRise();
+    // множественное наследование
+    DS.quack();
+    DS.transform();
     cout << '\n';
 
     Human* h1 = new Human(174, 64, "Данил");

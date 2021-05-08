@@ -2,8 +2,10 @@
 
 #include <iostream>
 #include "Comedian.h"
+#include "DuckMan.h"
 
-class DanielSloss: public Comedian {
+// множественное наследование
+class DanielSloss: public Comedian, public DuckMan{
 public:
     void say() {
         joke();

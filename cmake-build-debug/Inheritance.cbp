@@ -88,6 +88,9 @@
 		<Unit filename="/cygdrive/c/MyPrograms/Inheritance/People/DanielSloss.h">
 			<Option target="Inheritance"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/MyPrograms/Inheritance/People/DuckMan.h">
+			<Option target="Inheritance"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/MyPrograms/Inheritance/People/FYStudent.h">
 			<Option target="Inheritance"/>
 		</Unit>
